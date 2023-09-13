@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    
+<head>
+<title>Site Maintenance</title>
+<style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+
+</head>
+
+<body>
+
+<article>
+    <h1>You have a pending invoice!</h1>
+    <div>
+        <p>Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. If you need to you can always <a href="tel:https://wa.me/+8801711871547">contact us</a>, otherwise you need to pay for service reactivation fee afetr 7 days</p>
+        
+        <p>&mdash; GOISP</p>
+        
+        
+    </div>
+</article>
+
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/X3nYXgfhHEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</body>
+
+</html>

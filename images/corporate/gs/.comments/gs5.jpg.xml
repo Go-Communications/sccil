@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note/>
+  <place/>
+  <categories>
+    <category value="cable-bd"/>
+    <category value="rg6-cable"/>
+    <category value="r6-cable"/>
+    <category value="optic-fiber"/>
+    <category value="internet-cable"/>
+    <category value="fiber-optics"/>
+    <category value="ethernet-cable"/>
+    <category value="dish-tv-cable"/>
+    <category value="dish-cable"/>
+    <category value="coxial-cable-price-in-meter"/>
+    <category value="coaxial-wire"/>
+    <category value="coaxial-cable"/>
+    <category value="cat6"/>
+    <category value="cat5"/>
+    <category value="buy-coaxial-cable"/>
+  </categories>
+</comment>
